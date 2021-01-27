@@ -29,11 +29,11 @@ public class LoginUdemy {
 
         //Digitar no campo de email que está dentro do formulário de id login-form, o valor www.felipecesargomes@gmail.com
 
-        formularioLoginForm.findElement(By.id("email--1")).sendKeys("felipecesarbd@gmail.com");
+        formularioLoginForm.findElement(By.id("email--1")).sendKeys("emailaqui@gmail.com");
 
         //Digitar no campo de senha que está dentro do formulário de id login-form, o valor Ciencia1#
 
-        formularioLoginForm.findElement(By.id("id_password")).sendKeys("ciencia1");
+        formularioLoginForm.findElement(By.id("id_password")).sendKeys("teste");
 
         //Clicar no botão com id submit-id-submit
 
