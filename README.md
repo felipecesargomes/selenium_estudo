@@ -1,3 +1,3 @@
 # selenium_estudo
 
-Estudo de automatização com selenium.
+Estudo de testes automatizados com selenium.
